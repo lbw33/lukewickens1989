@@ -21,11 +21,12 @@
  
 📫 How to reach me: 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="lukewickens1989 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lukewickens1989 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <!-- Links to social media accounts -->
 [linkedin]: https://linkedin.com/in/lukewickens
+[medium]: https://lukewickens1989.medium.com/
 
 <!--
 **lukewickens1989/lukewickens1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
