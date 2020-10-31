@@ -2,15 +2,15 @@
 🌱 I’m currently learning Software Development at Makers Academy
 
 ![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukewickens1989&show_icons=true&theme=dracula)
-  
-📫 How to reach me: ![LinkedIn][1.2]
 
-<!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukewickens1989)](https://github.com/anuraghazra/github-readme-stats)
+  
+📫 How to reach me: 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <!-- Links to social media accounts -->
-[1]: https://www.linkedin.com/in/lukewickens/
-
+[linkedin]: https://linkedin.com/in/lukewickens
 <!--
 **lukewickens1989/lukewickens1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
