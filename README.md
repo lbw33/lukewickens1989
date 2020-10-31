@@ -1,10 +1,22 @@
 ### Hi there! My name is Luke 👋
 🌱 I’m currently learning Software Development at Makers Academy
 
+---
+<details>
+<summary>:zap: GitHub Stats</summary>  
+  
 ![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukewickens1989&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukewickens1989)](https://github.com/lukewickens1989/github-readme-stats)
+</details>
+---
+<details>
+<summary>:zap: Most Used Languages</summary>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukewickens1989)](https://github.com/lukewickens1989/github-readme-stats)
+
+</details> 
+--- 
+ 
 📫 How to reach me: 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
