@@ -4,13 +4,9 @@
 - 🥅 2020 Goals: Complete the Makers Academy Bootcamp
 - ⚡ Fun fact: I love to draw and read fantasy books
 ---
-<details>
-<summary>:zap: GitHub Stats</summary>  
-  
+
 ![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukewickens1989&show_icons=true&theme=dracula)
 
-</details>
----
 <details>
 <summary>:zap: Most Used Languages</summary>
   
