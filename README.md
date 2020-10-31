@@ -1,6 +1,8 @@
 ### Hi there! My name is Luke 👋
-🌱 I’m currently learning Software Development at Makers Academy
-
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning Software Development at Makers Academy
+- 🥅 2020 Goals: Complete the Makers Academy Bootcamp
+- ⚡ Fun fact: I love to draw and read fantasy books
 ---
 <details>
 <summary>:zap: GitHub Stats</summary>  
