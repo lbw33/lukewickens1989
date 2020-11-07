@@ -7,21 +7,17 @@
 
 ![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukewickens1989&show_icons=true&theme=dracula)
 
-<details>
-<summary>:zap: Most Used Languages</summary>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukewickens1989)](https://github.com/lukewickens1989/github-readme-stats)
-
-</details> 
 --- 
  
 📫 How to reach me: 
 
 [<img align="left" alt="lukewickens1989 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lukewickens1989 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="lukewickens1989 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <!-- Links to social media accounts -->
 [linkedin]: https://linkedin.com/in/lukewickens
+[email]: mailto:lukewickens1989@gmail.com
 [medium]: https://lukewickens1989.medium.com/
 
 <!--
