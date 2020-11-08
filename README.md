@@ -18,7 +18,7 @@
 <p align="center">
   <em>
     This is ME, Luke Wickens, a student of <a href="http://https://makers.tech/"> <b>Makers Academy</b></a>. <br>
-    A budding <b>Software Engineer Student</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with a backgroud in Investment Management&nbsp;<img src="https://media.giphy.com/media/gfIB4VqY5EFgahWpvg/giphy.gif" width="28px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Software Engineer Student</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with a backgroud in Investment Management&nbsp;<img src="https://media.giphy.com/media/mCJBg3jWw0XIH3euLA/giphy.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b><a href="https://www.kaizen.com/what-is-kaizen.html">Kaizen</a></b> and wants to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
