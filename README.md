@@ -30,8 +30,9 @@
 - 🥅 2020 Goals: Complete the Makers Academy Bootcamp
 - ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28px">
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 
 
 <hr>
