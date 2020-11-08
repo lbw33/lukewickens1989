@@ -49,7 +49,7 @@
 
 <p align="center"> 
   <b>Currently Playing🎶...</b><br><br>
-  <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
+  [![Spotify](https://lukewickens1989.vercel.app/api/spotify)](https://open.spotify.com/user/thrashunreal1)
 </p>
 <hr>
   
