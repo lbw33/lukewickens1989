@@ -45,15 +45,6 @@
 <br>
 
 
-
-
-<p align="center"> 
-  <b>Currently Playing🎶...</b><br><br>
-  <img src="https://spotify-rust.vercel.app/api/spotify-playing" alt="lukewickens1989 Spotify Playing" width="350" />
-</p>
-<hr>
-  
-
 <!--
 **lukewickens1989/lukewickens1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
