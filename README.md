@@ -36,34 +36,19 @@
 2. 💪 Opened PR [#1954](https://github.com/makersacademy/clmystery/pull/1954) in [makersacademy/clmystery](https://github.com/makersacademy/clmystery)
 <!--END_SECTION:activity-->
 
-<p>
-<h3>Employment History</h3>  
+---
 
-  <strong>Student - Software Development</strong>  
-  <em>Makers Academy</em>  
-  Nov 2020 – Present  
-  
-  <strong>Pricing Department</strong>  
-  <em>Marlborough Fund Managers</em>  
-  Mar 2019 – Nov 2020  
-  
-  <strong>Trainee Paraplanner</strong>  
-  <em>MGP Investment Management Limited</em>  
-  Dec 2018 – Mar 2019  
-  
-  <strong>Company Director</strong>  
-  <em>BPDS & Sons Limited</em>  
-  Feb 2016 – Oct 2018  
-  
-  <strong>Senior Administrator - Custody & Transfers Department</strong>  
-  <em>Investec Wealth & Investment UK</em>  
-  Jun 2014 – Feb 2016  
-  
-</p>
+### 👯 Employment History
+ * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Present)  
+ * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
+ * <strong>Trainee Paraplanner</strong>, <em>MGP Investment Management Limited</em> (Dec 2018 – Mar 2019)   
+ * <strong>Company Director</strong>, <em>BPDS & Sons Limited</em> (Feb 2016 – Oct 2018)    
+ * <strong>Senior Administrator - Custody & Transfers Department</strong>, <em>Investec Wealth & Investment UK</em> (Jun 2014 – Feb 2016)  
 <hr>
 <p align="center">
 <img src="https://github-readme-stats-one-roan.vercel.app/api?username=lukewickens1989&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src ="https://github-readme-stats-one-roan.vercel.app/api/top-langs/?username=lukewickens1989&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+ <br>
 </p>
 <br>
 
