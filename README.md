@@ -2,16 +2,16 @@
 <h1 align="center">Hi there! My name is Luke <img align="center" alt="Hi there!" width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" />
 <br>
 <a href="https://linkedin.com/in/lukewickens">
-  <img align="center" alt="lukewickens1989 | LinkedIn" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="lukewickens1989 | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="mailto:lukewickens1989@gmail.com">
-  <img align="center" alt="lukewickens1989 | Email" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="lukewickens1989 | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 <a href="https://lukewickens1989.medium.com/">
-<img align="center" alt="lukewickens1989 | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="center" alt="lukewickens1989 | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://https://www.instagram.com/mustytomes//">
-<img align="center" alt="lukewickens1989 | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+<a href="https://https://www.instagram.com/mustytomes/">
+<img align="center" alt="lukewickens1989 | Instagram" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 </h1>
 
@@ -19,7 +19,7 @@
   <em>
     This is ME, Luke Wickens, a student of <a href="http://https://makers.tech/"> <b>Makers Academy</b></a>. <br>
     A budding <b>Software Engineer Student</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with a backgroud in Investment Management&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    with the idea of <b><a href="https://www.kaizen.com/what-is-kaizen.html">Kaizen</a></b> and wants to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
