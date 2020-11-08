@@ -1,5 +1,4 @@
-<hr>
-<h1 align="center">Hi there! My name is Luke <img align="center" alt="Hi there!" width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" />
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
 <a href="https://linkedin.com/in/lukewickens">
   <img align="center" alt="lukewickens1989 | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -28,6 +27,7 @@
 
 - 😄 Pronouns: <a href="https://pronoun.is/he">he/him</a>
 - 🥅 2020 Goals: Complete the Makers Academy Bootcamp
+- 💬 Ask me about anything an everything.
 - ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28px">
 
 ### :zap: Recent Activity
@@ -45,10 +45,11 @@
  * <strong>Company Director</strong>, <em>BPDS & Sons Limited</em> (Feb 2016 – Oct 2018)    
  * <strong>Senior Administrator - Custody & Transfers Department</strong>, <em>Investec Wealth & Investment UK</em> (Jun 2014 – Feb 2016)  
 <hr>
-<p align="center">
+
+<p align="left">
 <img src="https://github-readme-stats-one-roan.vercel.app/api?username=lukewickens1989&count_private=true&show_icons=true&theme=graywhite" alt="GitHub Status"/>
 <img src ="https://github-readme-stats-one-roan.vercel.app/api/top-langs/?username=lukewickens1989&count_private=true&show_icons=true&layout=compact&theme=graywhite" alt="Most Used Languages">
- <br>
+<br>
 </p>
 <br>
 
