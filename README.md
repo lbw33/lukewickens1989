@@ -28,7 +28,7 @@
 
 - 😄 Pronouns: <a href="https://pronoun.is/he">he/him</a>
 - 🥅 2020 Goals: Complete the Makers Academy Bootcamp
-- ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="36px">
+- ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28px">
 
 
 
@@ -43,10 +43,10 @@
 
 
 <p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
-  <img src="https://profile-counter.glitch.me/lukewickens1989/count.svg" />
+  <b>Currently Playing🎶...</b><br><br>
+  <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
 </p>
+<hr>
   
 
 <!--
