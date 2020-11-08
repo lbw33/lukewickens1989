@@ -12,7 +12,7 @@
 <a href="https://https://www.instagram.com/mustytomes/">
 <img align="center" alt="lukewickens1989 | Instagram" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
-<a href="https://https://www.twitter.com/luke_wickens/">
+<a href="https://www.twitter.com/luke_wickens">
 <img align="center" alt="lukewickens1989 | Twitter" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 
