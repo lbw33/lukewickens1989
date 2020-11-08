@@ -42,14 +42,14 @@
 <img src="https://github-readme-stats-one-roan.vercel.app/api?username=lukewickens1989&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src ="https://github-readme-stats-one-roan.vercel.app/api/top-langs/?username=lukewickens1989&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
-
+<br>
 
 
 
 
 <p align="center"> 
   <b>Currently Playing🎶...</b><br><br>
-  [![Spotify](https://lukewickens1989.vercel.app/api/spotify)](https://open.spotify.com/user/thrashunreal1)
+  <img src="https://spotify-rust.vercel.app/api/spotify-playing" alt="lukewickens1989 Spotify Playing" width="350" />
 </p>
 <hr>
   
