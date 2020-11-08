@@ -30,22 +30,17 @@
 - 🥅 2020 Goals: Complete the Makers Academy Bootcamp
 - ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="36px">
 
-<br />
+
+
 <hr>
-
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukewickens1989&show_icons=true&theme=dracula)
-
-<hr> 
-<br />
-
-📫 How to reach me: 
-
-[<img align="left" alt="lukewickens1989 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lukewickens1989 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="lukewickens1989 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lukewickens1989&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lukewickens1989&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 
 
-<br />
+
+
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
@@ -53,10 +48,6 @@
   <img src="https://profile-counter.glitch.me/lukewickens1989/count.svg" />
 </p>
   
-<!-- Links to social media accounts -->
-[linkedin]: https://linkedin.com/in/lukewickens
-[email]: mailto:lukewickens1989@gmail.com
-[medium]: https://lukewickens1989.medium.com/
 
 <!--
 **lukewickens1989/lukewickens1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
