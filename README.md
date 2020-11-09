@@ -9,6 +9,9 @@
 <a href="https://lukewickens1989.medium.com/">
 <img align="center" alt="lukewickens1989 | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://www.codewars.com/users/lukewickens1989">
+<img align="center" alt="lukewickens1989 | Codewars" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/codewars.svg" />
+</a>
 <a href="https://https://www.instagram.com/mustytomes/">
 <img align="center" alt="lukewickens1989 | Instagram" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
@@ -42,7 +45,7 @@
 
 ---
 
-### 👯 Employment History
+### 🌱 Employment History
  * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Present)  
  * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
  * <strong>Trainee Paraplanner</strong>, <em>MGP Investment Management Limited</em> (Dec 2018 – Mar 2019)   
