@@ -45,7 +45,7 @@
 
 ---
 
-### 🛠 &nbsp;A few things i picked up along the way
+### 🛠 A Few Things I've Picked Up Along The Way...
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
