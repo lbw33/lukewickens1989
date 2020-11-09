@@ -45,7 +45,21 @@
 
 ---
 
-### 🌱 Employment History
+### 🛠 &nbsp;A few things i picked up along the way
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=FF5733)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=FF5733)
+
+---
+
+### ⚙️ Employment History
  * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Present)  
  * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
  * <strong>Trainee Paraplanner</strong>, <em>MGP Investment Management Limited</em> (Dec 2018 – Mar 2019)   
