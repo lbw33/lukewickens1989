@@ -65,7 +65,10 @@
  * <strong>Trainee Paraplanner</strong>, <em>MGP Investment Management Limited</em> (Dec 2018 – Mar 2019)   
  * <strong>Company Director</strong>, <em>BPDS & Sons Limited</em> (Feb 2016 – Oct 2018)    
  * <strong>Senior Administrator - Custody & Transfers Department</strong>, <em>Investec Wealth & Investment UK</em> (Jun 2014 – Feb 2016)  
-<hr>
+ 
+📗For a full CV please click <strong><a href="https://github.com/lukewickens1989/lukewickens1989/blob/main/.github/CV%2010.11.2020.pdf">here</a></strong>. 
+
+---
 
 <p align="left">
 <img src="https://github-readme-stats-one-roan.vercel.app/api?username=lukewickens1989&count_private=true&show_icons=true&theme=graywhite" alt="GitHub Status"/>
