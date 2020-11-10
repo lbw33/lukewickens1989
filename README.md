@@ -56,7 +56,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=FF5733)
-![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile&logoColor=FF5733)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+![Jasmine](https://img.shields.io/badge/-Jasmine-333333?style=flat&logo=jasmine)
+![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=rails)
+![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)
+![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=rspec)
 
 ---
 
