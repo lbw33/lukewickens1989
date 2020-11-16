@@ -18,7 +18,6 @@
 <a href="https://www.twitter.com/luke_wickens">
 <img align="center" alt="lukewickens1989 | Twitter" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
-
 </h1>
 
 <p align="center">
@@ -78,6 +77,9 @@
 <p align="left">
 <img src="https://github-readme-stats-one-roan.vercel.app/api?username=lukewickens1989&count_private=true&show_icons=true&theme=graywhite" alt="GitHub Status"/>
 <img src ="https://github-readme-stats-one-roan.vercel.app/api/top-langs/?username=lukewickens1989&count_private=true&show_icons=true&layout=compact&theme=graywhite" alt="Most Used Languages">
+  
+[![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=master)](https://travis-ci.com/travis-ci/travis-web)
+
 <br>
 </p>
 <br>
