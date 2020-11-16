@@ -77,9 +77,6 @@
 <p align="left">
 <img src="https://github-readme-stats-one-roan.vercel.app/api?username=lukewickens1989&count_private=true&show_icons=true&theme=graywhite" alt="GitHub Status"/>
 <img src ="https://github-readme-stats-one-roan.vercel.app/api/top-langs/?username=lukewickens1989&count_private=true&show_icons=true&layout=compact&theme=graywhite" alt="Most Used Languages">
-  
-[![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=master)](https://travis-ci.com/travis-ci/travis-web)
-
 <br>
 </p>
 <br>
