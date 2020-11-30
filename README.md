@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1953](https://github.com/makersacademy/airport_challenge/pull/1953) in [makersacademy/airport_challenge](https://github.com/makersacademy/airport_challenge)
-2. 💪 Opened PR [#1954](https://github.com/makersacademy/clmystery/pull/1954) in [makersacademy/clmystery](https://github.com/makersacademy/clmystery)
+1. 🗣 Commented on [#1953](https://github.com/makersacademy/airport_challenge/issues/1953) in [makersacademy/airport_challenge](https://github.com/makersacademy/airport_challenge)
+2. 💪 Opened PR [#1953](https://github.com/makersacademy/airport_challenge/pull/1953) in [makersacademy/airport_challenge](https://github.com/makersacademy/airport_challenge)
 <!--END_SECTION:activity-->
 
 ---
