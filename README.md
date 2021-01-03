@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1776](https://github.com/makersacademy/rps-challenge/pull/1776) in [makersacademy/rps-challenge](https://github.com/makersacademy/rps-challenge)
-2. 💪 Opened PR [#1800](https://github.com/makersacademy/takeaway-challenge/pull/1800) in [makersacademy/takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
+1. 💪 Opened PR [#1680](https://github.com/makersacademy/chitter-challenge/pull/1680) in [makersacademy/chitter-challenge](https://github.com/makersacademy/chitter-challenge)
+2. 💪 Opened PR [#1776](https://github.com/makersacademy/rps-challenge/pull/1776) in [makersacademy/rps-challenge](https://github.com/makersacademy/rps-challenge)
 <!--END_SECTION:activity-->
 
 ---
