@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1680](https://github.com/makersacademy/chitter-challenge/pull/1680) in [makersacademy/chitter-challenge](https://github.com/makersacademy/chitter-challenge)
-2. 💪 Opened PR [#1776](https://github.com/makersacademy/rps-challenge/pull/1776) in [makersacademy/rps-challenge](https://github.com/makersacademy/rps-challenge)
+1. 💪 Opened PR [#2](https://github.com/iantfleming/MakersBnB/pull/2) in [iantfleming/MakersBnB](https://github.com/iantfleming/MakersBnB)
+2. ❗️ Opened issue [#1](https://github.com/iantfleming/MakersBnB/issues/1) in [iantfleming/MakersBnB](https://github.com/iantfleming/MakersBnB)
 <!--END_SECTION:activity-->
 
 ---
