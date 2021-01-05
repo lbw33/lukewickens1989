@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/iantfleming/MakersBnB/pull/2) in [iantfleming/MakersBnB](https://github.com/iantfleming/MakersBnB)
-2. ❗️ Opened issue [#1](https://github.com/iantfleming/MakersBnB/issues/1) in [iantfleming/MakersBnB](https://github.com/iantfleming/MakersBnB)
+1. 💪 Opened PR [#4](https://github.com/iantfleming/MakersBnB/pull/4) in [iantfleming/MakersBnB](https://github.com/iantfleming/MakersBnB)
+2. 💪 Opened PR [#2](https://github.com/iantfleming/MakersBnB/pull/2) in [iantfleming/MakersBnB](https://github.com/iantfleming/MakersBnB)
 <!--END_SECTION:activity-->
 
 ---
