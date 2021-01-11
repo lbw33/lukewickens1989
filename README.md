@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/makersacademy/bowling-challenge-ruby/pull/36) in [makersacademy/bowling-challenge-ruby](https://github.com/makersacademy/bowling-challenge-ruby)
-2. 💪 Opened PR [#15](https://github.com/iantfleming/MakersBnB/pull/15) in [iantfleming/MakersBnB](https://github.com/iantfleming/MakersBnB)
+1. 🎉 Merged PR [#1](https://github.com/lukewickens1989/week_6/pull/1) in [lukewickens1989/week_6](https://github.com/lukewickens1989/week_6)
+2. 💪 Opened PR [#1](https://github.com/lukewickens1989/week_6/pull/1) in [lukewickens1989/week_6](https://github.com/lukewickens1989/week_6)
 <!--END_SECTION:activity-->
 
 ---
