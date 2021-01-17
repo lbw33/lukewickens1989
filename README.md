@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/lukewickens1989/week_6/pull/1) in [lukewickens1989/week_6](https://github.com/lukewickens1989/week_6)
-2. 💪 Opened PR [#1](https://github.com/lukewickens1989/week_6/pull/1) in [lukewickens1989/week_6](https://github.com/lukewickens1989/week_6)
+1. 💪 Opened PR [#1291](https://github.com/makersacademy/bowling-challenge/pull/1291) in [makersacademy/bowling-challenge](https://github.com/makersacademy/bowling-challenge)
+2. 🎉 Merged PR [#1](https://github.com/lukewickens1989/week_6/pull/1) in [lukewickens1989/week_6](https://github.com/lukewickens1989/week_6)
 <!--END_SECTION:activity-->
 
 ---
