@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kikidawson/notes_app/pull/1) in [kikidawson/notes_app](https://github.com/kikidawson/notes_app)
-2. 💪 Opened PR [#1291](https://github.com/makersacademy/bowling-challenge/pull/1291) in [makersacademy/bowling-challenge](https://github.com/makersacademy/bowling-challenge)
+1. 💪 Opened PR [#339](https://github.com/makersacademy/news-summary-challenge/pull/339) in [makersacademy/news-summary-challenge](https://github.com/makersacademy/news-summary-challenge)
+2. 💪 Opened PR [#1](https://github.com/kikidawson/notes_app/pull/1) in [kikidawson/notes_app](https://github.com/kikidawson/notes_app)
 <!--END_SECTION:activity-->
 
 ---
