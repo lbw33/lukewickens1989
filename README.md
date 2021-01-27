@@ -63,6 +63,12 @@
 
 ---
 
+### 🛠 Things i've built...
+* Weathify (<a href="http://weathify.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/weathify">Repo</a>) - A weather app using OpenWeather API.
+
+---
+
+
 ### ⚙️ Employment History
  * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Present)  
  * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
