@@ -63,7 +63,7 @@
 
 ---
 
-### 🛠 Things i've built...
+### 🛠 Things I've Built...
 * Weathify (<a href="http://weathify.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/weathify">Repo</a>) - A weather app using OpenWeather API.
 
 ---
