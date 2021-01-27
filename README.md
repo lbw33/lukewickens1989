@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠 A Few Things I've Picked Up Along The Way...
+### 🛠  A Few Things I've Picked Up Along The Way...
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -63,7 +63,7 @@
 
 ---
 
-### 🛠 Things I've Built...
+### 🛠  Things I've Built...
 * Weathify (<a href="http://weathify.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/weathify">Repo</a>) - A weather app using OpenWeather API.
 
 ---
@@ -76,7 +76,7 @@
  * <strong>Company Director</strong>, <em>BPDS & Sons Limited</em> (Feb 2016 – Oct 2018)    
  * <strong>Senior Administrator - Custody & Transfers Department</strong>, <em>Investec Wealth & Investment UK</em> (Jun 2014 – Feb 2016)  
  
-📗For a full CV please click <strong><a href=".github/workflows/Luke_Wickens_Resume.pdf">here</a></strong>. 
+📗 For a full CV please click <strong><a href=".github/workflows/Luke_Wickens_Resume.pdf">here</a></strong>. 
 
 ---
 
