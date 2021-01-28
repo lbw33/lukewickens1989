@@ -65,6 +65,7 @@
 
 ### 🛠  Things I've Built...
 * Weathify (<a href="http://weathify.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/weathify">Repo</a>) - A weather app using OpenWeather API.
+* Monster Search (<a href="http://monstersearch.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/monster_search/">Repo</a>) - A monster searching app build using React.
 
 ---
 
