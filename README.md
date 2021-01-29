@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#339](https://github.com/makersacademy/news-summary-challenge/pull/339) in [makersacademy/news-summary-challenge](https://github.com/makersacademy/news-summary-challenge)
-2. 💪 Opened PR [#1](https://github.com/kikidawson/notes_app/pull/1) in [kikidawson/notes_app](https://github.com/kikidawson/notes_app)
+1. 💪 Opened PR [#4](https://github.com/PiperS52/acebook-CLOBS/pull/4) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
+2. 💪 Opened PR [#339](https://github.com/makersacademy/news-summary-challenge/pull/339) in [makersacademy/news-summary-challenge](https://github.com/makersacademy/news-summary-challenge)
 <!--END_SECTION:activity-->
 
 ---
