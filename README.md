@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#810](https://github.com/makersacademy/instagram-challenge/pull/810) in [makersacademy/instagram-challenge](https://github.com/makersacademy/instagram-challenge)
-2. 💪 Opened PR [#4](https://github.com/PiperS52/acebook-CLOBS/pull/4) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
+1. 🎉 Merged PR [#8](https://github.com/PiperS52/acebook-CLOBS/pull/8) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
+2. 💪 Opened PR [#8](https://github.com/PiperS52/acebook-CLOBS/pull/8) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
 <!--END_SECTION:activity-->
 
 ---
