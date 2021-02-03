@@ -38,8 +38,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/PiperS52/acebook-CLOBS/pull/8) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
-2. 💪 Opened PR [#8](https://github.com/PiperS52/acebook-CLOBS/pull/8) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
+1. 💪 Opened PR [#14](https://github.com/PiperS52/acebook-CLOBS/pull/14) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
+2. 🎉 Merged PR [#8](https://github.com/PiperS52/acebook-CLOBS/pull/8) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
 <!--END_SECTION:activity-->
 
 ---
