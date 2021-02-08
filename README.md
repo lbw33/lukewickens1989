@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center"> Luke Wickens
 <br>
 <a href="https://linkedin.com/in/lukewickens">
   <img align="center" alt="lukewickens1989 | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -22,11 +22,8 @@
 
 <p align="center">
   <em>
-    This is ME, Luke Wickens, a student of <a href="http://https://makers.tech/"> <b>Makers Academy</b></a>. <br>
-    A budding <b>Software Engineer Student</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> with a backgroud in Investment Management&nbsp;<img src="https://media.giphy.com/media/DkyuyHm4QKpu8/giphy.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b><a href="https://www.kaizen.com/what-is-kaizen.html">Kaizen</a></b> and wants to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    Currently a student of <a href="http://https://makers.tech/"> <b>Makers Academy</b></a>. <br>
+    A budding <b>Software Engineer Student with a backgroud in Investment Management.&nbsp;
   </em> 
   <br>
 </p>
