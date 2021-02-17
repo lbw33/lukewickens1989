@@ -35,8 +35,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/PiperS52/acebook-CLOBS/pull/17) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
-2. 💪 Opened PR [#17](https://github.com/PiperS52/acebook-CLOBS/pull/17) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
+1. 🎉 Merged PR [#1](https://github.com/RideTheDuck/RideTheDuck/pull/1) in [RideTheDuck/RideTheDuck](https://github.com/RideTheDuck/RideTheDuck)
+2. 🎉 Merged PR [#17](https://github.com/PiperS52/acebook-CLOBS/pull/17) in [PiperS52/acebook-CLOBS](https://github.com/PiperS52/acebook-CLOBS)
 <!--END_SECTION:activity-->
 
 ---
