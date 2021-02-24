@@ -35,8 +35,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/RideTheDuck/RideTheDuck/pull/13) in [RideTheDuck/RideTheDuck](https://github.com/RideTheDuck/RideTheDuck)
-2. 💪 Opened PR [#10](https://github.com/RideTheDuck/RideTheDuck/pull/10) in [RideTheDuck/RideTheDuck](https://github.com/RideTheDuck/RideTheDuck)
+1. 🎉 Merged PR [#14](https://github.com/RideTheDuck/RideTheDuck/pull/14) in [RideTheDuck/RideTheDuck](https://github.com/RideTheDuck/RideTheDuck)
+2. 💪 Opened PR [#14](https://github.com/RideTheDuck/RideTheDuck/pull/14) in [RideTheDuck/RideTheDuck](https://github.com/RideTheDuck/RideTheDuck)
 <!--END_SECTION:activity-->
 
 ---
