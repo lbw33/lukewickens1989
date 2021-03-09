@@ -68,7 +68,9 @@
 
 ### 🛠  Things I've Built...
 * Weathify (<a href="http://weathify.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/weathify">Repo</a>) - A weather app using OpenWeather API.
-* Monster Search (<a href="http://monstersearch.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/monster_search/">Repo</a>) - A monster searching app build using React.
+* Monster Search (<a href="http://monstersearch.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/monster_search/">Repo</a>) - A monster searching app built using React.
+* RideTheDuck (<a href="https://github.com/RideTheDuck/RideTheDuck">Repo</a>) - An all in one travel companion app made with React Native & Firebase.
+* EthSwap (<a href="https://github.com/lukewickens1989/ethSwap">Repo</a>) - An Ethereum token swapper created with Solidity and React.
 
 ---
 
