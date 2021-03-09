@@ -22,14 +22,14 @@
 
 <p align="center">
   <em>
-    Currently a student of <a href="http://https://makers.tech/"> <b>Makers Academy</b></a>. <br>
-    A budding <b>Software Engineer Student with a backgroud in Investment Management.&nbsp;
+    Currently an Intern Blockchain developer at <a href="https://extropy.io/"> <b>extropy.io</b></a>. <br>
+    &nbsp;
   </em> 
   <br>
 </p>
 
 - 😄 Pronouns: <a href="https://pronoun.is/he">he/him</a>
-- 🥅 2020 Goals: Complete the Makers Academy Bootcamp
+- 🥅 2020 Goals: Learning Solidity, Web3.js, Truffle Suite, Remix, Mocha/Chai.
 - 💬 Ask me about anything an everything.
 - ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="22px">
 
@@ -58,6 +58,11 @@
 ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=rails)
 ![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)
 ![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=rspec)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+![Web3.js](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3)
+![Truffle](https://img.shields.io/badge/-Truffle-333333?style=flat&logo=truffle)
+![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
+![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=chai)
 
 ---
 
@@ -69,7 +74,8 @@
 
 
 ### ⚙️ Employment History
- * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Present)  
+ * <strong>Intern Blockchain Developer</strong>, <em>extropy.io</em> (March 2021 – Present) 
+ * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Feb 2021)  
  * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
  * <strong>Trainee Paraplanner</strong>, <em>MGP Investment Management Limited</em> (Dec 2018 – Mar 2019)   
  * <strong>Company Director</strong>, <em>BPDS & Sons Limited</em> (Feb 2016 – Oct 2018)    
