@@ -72,6 +72,7 @@
 * RideTheDuck (<a href="https://github.com/RideTheDuck/RideTheDuck">Repo</a>) - An all in one travel companion app made with React Native & Firebase.
 * EthSwap (<a href='http://eethereumswapp.surge.sh/'>Hosted</a> | <a href="https://github.com/lukewickens1989/ethSwap">Repo</a>) - An Ethereum token swapper created with Solidity and React.
 * ColorNFT (<a href='http://hexcolornft.surge.sh/'>Hosted</a> | <a href="https://github.com/lukewickens1989/color_nfts">Repo</a>) - A NFT minter based on hexadecimal color codes created with Solidity and React.
+* Portfolio (<a href='https://ipfs.fleek.co/ipfs/QmWL3HXAHSG4Ry9DnFXkF61EGBQWYfQA8w1eaHNE2QCyBd/'>Hosted</a> | <a href="https://github.com/lukewickens1989/decentralized_portfolio">Repo</a>) - My decentralized portfolio site running on IPFS built with React.
 
 ---
 
