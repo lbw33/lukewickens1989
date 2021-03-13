@@ -51,12 +51,9 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=FF5733)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-333333?style=flat&logo=jasmine)
-![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=rails)
-![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=rspec)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
 ![Web3.js](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3)
@@ -72,7 +69,7 @@
 * RideTheDuck (<a href="https://github.com/RideTheDuck/RideTheDuck">Repo</a>) - An all in one travel companion app made with React Native & Firebase.
 * EthSwap (<a href='http://eethereumswapp.surge.sh/'>Hosted</a> | <a href="https://github.com/lukewickens1989/ethSwap">Repo</a>) - An Ethereum token swapper created with Solidity and React.
 * ColorNFT (<a href='http://hexcolornft.surge.sh/'>Hosted</a> | <a href="https://github.com/lukewickens1989/color_nfts">Repo</a>) - A NFT minter based on hexadecimal color codes created with Solidity and React.
-* Portfolio (<a href='https://ipfs.fleek.co/ipfs/QmWL3HXAHSG4Ry9DnFXkF61EGBQWYfQA8w1eaHNE2QCyBd/'>Hosted</a> | <a href="https://github.com/lukewickens1989/decentralized_portfolio">Repo</a>) - My decentralized portfolio site running on IPFS built with React.
+* Portfolio (<a href='https://ipfs.fleek.co/ipfs/QmWL3HXAHSG4Ry9DnFXkF61EGBQWYfQA8w1eaHNE2QCyBd/'>Hosted</a> | <a href="https://github.com/lukewickens1989/decentralized_portfolio">Repo</a>) - My decentralized portfolio site running on IPFS built with React (currently a work in progress).
 
 ---
 
