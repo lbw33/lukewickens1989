@@ -19,8 +19,8 @@
 
 <p align="center">
   <em>
-    Currently an Intern Blockchain developer at <a href="https://extropy.io/"> <b>extropy.io</b></a>. <br>
-    &nbsp;
+   Blockchain developer at <a href="https://extropy.io/"> <b>extropy.io</b></a>. <br>
+   &nbsp;
   </em> 
   <br>
 </p>
@@ -78,7 +78,7 @@
 
 
 ### ⚙️ Employment History
- * <strong>Intern Blockchain Developer</strong>, <em>extropy.io</em> (March 2021 – Present) 
+ * <strong>Blockchain Developer</strong>, <em>extropy.io</em> (March 2021 – Present) 
  * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Feb 2021)  
  * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
  * <strong>Trainee Paraplanner</strong>, <em>MGP Investment Management Limited</em> (Dec 2018 – Mar 2019)   
