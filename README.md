@@ -26,7 +26,7 @@
 </p>
 
 - 😄 Pronouns: <a href="https://pronoun.is/he">he/him</a>
-- 🥅 2020 Goals: Learning Solidity, Web3.js, Truffle Suite, Remix, Mocha/Chai.
+- 🥅 2020 Goals: Learning Solidity, Web3.js, Truffle Suite, Remix, Mocha/Chai & IPFS.
 - 💬 Ask me about anything an everything.
 - ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="22px">
 
@@ -59,10 +59,10 @@
 
 ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
-![Web3.js](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3)
+![Web3.js](https://img.shields.io/badge/-Web3.js-333333?style=flat&logo=web3js)
 ![Truffle](https://img.shields.io/badge/-Truffle-333333?style=flat&logo=truffle)
-![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
-![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=chai)
+![Mocha](https://img.shields.io/badge/-Mocha/Chai-333333?style=flat&logo=mocha)
+![IPFS](https://img.shields.io/badge/-IPFS-333333?style=flat&logo=ipfs)
 
 ---
 
