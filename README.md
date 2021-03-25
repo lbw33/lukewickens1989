@@ -76,6 +76,12 @@
 
 ---
 
+### Fun Stuff
+* CryptoZombies:
+  1. <a href='https://share.cryptozombies.io/en/lesson/1/share/Luke_'>Lesson 1</a>
+
+---
+
 
 ### ⚙️ Employment History
  * <strong>Blockchain Developer</strong>, <em>extropy.io</em> (March 2021 – Present) 
