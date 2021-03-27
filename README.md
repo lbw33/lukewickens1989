@@ -81,6 +81,7 @@
 ### Fun Stuff
 * CryptoZombies:
   1. <a href='https://share.cryptozombies.io/en/lesson/1/share/Luke_'>Lesson 1</a>
+  2. <a href='https://share.cryptozombies.io/en/lesson/2/share/Luke_'>Lesson 2</a>
 
 ---
 
