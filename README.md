@@ -25,10 +25,10 @@
   <br>
 </p>
 
-- 😄 Pronouns: <a href="https://pronoun.is/he">he/him</a>
-- 🥅 2021 goals: Learning Solidity, Web3.js, Truffle Suite, Remix, Mocha/Chai & IPFS.
-- 💬 Ask me about anything an everything.
-- ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="22px">
+- 😄 &nbsp; Pronouns: <a href="https://pronoun.is/he">he/him</a>
+- 🔭 &nbsp;  2021 goals: Learning Solidity, Web3.js, Truffle Suite, Remix, Mocha/Chai & IPFS.
+- 💬 &nbsp; Ask me about anything an everything.
+- ⚡ &nbsp; Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="22px">
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
@@ -38,7 +38,7 @@
 
 ---
 
-### 🛠  A Few Things I've Picked Up Along The Way...
+### 🌱 &nbsp; A Few Things I've Picked Up Along The Way...
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -67,7 +67,7 @@
 
 ---
 
-### 🛠  Things I've Built...
+### 🛠 &nbsp; Things I've Built...
 * Weathify (<a href="http://weathify.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/weathify">Repo</a>) - A weather app using OpenWeather API.
 * Monster Search (<a href="http://monstersearch.surge.sh/">Hosted</a> | <a href="https://github.com/lukewickens1989/monster_search/">Repo</a>) - A monster searching app built using React.
 * RideTheDuck (<a href="https://github.com/RideTheDuck/RideTheDuck">Repo</a>) - An all in one travel companion app made with React Native & Firebase.
@@ -78,7 +78,7 @@
 
 ---
 
-### Fun Stuff
+### 🎉 &nbsp; Fun Stuff
 * CryptoZombies:
   1. <a href='https://share.cryptozombies.io/en/lesson/1/share/Luke_'>Lesson 1</a>
   2. <a href='https://share.cryptozombies.io/en/lesson/2/share/Luke_'>Lesson 2</a>
@@ -87,7 +87,7 @@
 ---
 
 
-### ⚙️ Employment History
+### ⚙️ &nbsp; Employment History
  * <strong>Blockchain Developer</strong>, <em>extropy.io</em> (March 2021 – Present) 
  * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Feb 2021)  
  * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
