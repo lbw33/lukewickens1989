@@ -26,7 +26,7 @@
 </p>
 
 - 😄 Pronouns: <a href="https://pronoun.is/he">he/him</a>
-- 🥅 2020 Goals: Learning Solidity, Web3.js, Truffle Suite, Remix, Mocha/Chai & IPFS.
+- 🥅 2021 goals: Learning Solidity, Web3.js, Truffle Suite, Remix, Mocha/Chai & IPFS.
 - 💬 Ask me about anything an everything.
 - ⚡ Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="22px">
 
@@ -82,6 +82,7 @@
 * CryptoZombies:
   1. <a href='https://share.cryptozombies.io/en/lesson/1/share/Luke_'>Lesson 1</a>
   2. <a href='https://share.cryptozombies.io/en/lesson/2/share/Luke_'>Lesson 2</a>
+  3. <a href='https://share.cryptozombies.io/en/lesson/3/share/Luke_'>Lesson 3</a>
 
 ---
 
