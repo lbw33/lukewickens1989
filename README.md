@@ -68,6 +68,7 @@
 ![Truffle](https://img.shields.io/badge/-Truffle-333333?style=flat&logo=truffle)
 ![Mocha](https://img.shields.io/badge/-Mocha/Chai-333333?style=flat&logo=mocha)
 ![IPFS](https://img.shields.io/badge/-IPFS-333333?style=flat&logo=ipfs)
+![Hardhat](https://img.shields.io/badge/-Hardhat-333333?style=flat&logo=hardhat)
 
 ---
 
