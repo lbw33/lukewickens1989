@@ -57,6 +57,7 @@
 ![Jasmine](https://img.shields.io/badge/-Jasmine-333333?style=flat&logo=jasmine)
 ![React](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=FF5733)
 ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=rubyonrails)
