@@ -101,7 +101,7 @@
  * <strong>Company Director</strong>, <em>BPDS & Sons Limited</em> (Feb 2016 – Oct 2018)    
  * <strong>Senior Administrator - Custody & Transfers Department</strong>, <em>Investec Wealth & Investment UK</em> (Jun 2014 – Feb 2016)  
  
-📗 For a full CV please click <strong><a href="https://github.com/lukewickens1989/lukewickens1989/blob/main/.github/workflows/Luke_Wickens_Resume_06-07-2021-20-12-29.pdf">here</a></strong>. 
+📗 For a full CV please click <strong><a href="https://github.com/lukewickens1989/lukewickens1989/blob/main/.github/workflows/Luke_Wickens_Resume_02-12-2021-10-02-35.pdf">here</a></strong>. 
 
 ---
 
