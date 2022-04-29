@@ -30,46 +30,21 @@
 </p>
 
 - 😄 &nbsp; Pronouns: <a href="https://pronoun.is/he">he/him</a>
-- 🔭 &nbsp;  2021 goals: Learning Solidity, Web3.js, Truffle Suite, Remix, Mocha/Chai & IPFS.
+- 🔭 &nbsp;  2021 goals: Cairo, Nest.js, TypeScript.
 - 💬 &nbsp; Ask me about anything an everything.
 - ⚡ &nbsp; Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="22px">
 
-### :zap: &nbsp; Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/RideTheDuck/RideTheDuck/pull/18) in [RideTheDuck/RideTheDuck](https://github.com/RideTheDuck/RideTheDuck)
-2. 💪 Opened PR [#18](https://github.com/RideTheDuck/RideTheDuck/pull/18) in [RideTheDuck/RideTheDuck](https://github.com/RideTheDuck/RideTheDuck)
-<!--END_SECTION:activity-->
-
 ---
 
-### 🌱 &nbsp; A Few Things I've Picked Up Along The Way...
+### 🌱 &nbsp; Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-![Jasmine](https://img.shields.io/badge/-Jasmine-333333?style=flat&logo=jasmine)
-![React](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
-![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=FF5733)
-![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=rubyonrails)
-![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=rspec)
-
-![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
-![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
-![Web3.js](https://img.shields.io/badge/-Web3.js-333333?style=flat&logo=web3.js)
-![Truffle](https://img.shields.io/badge/-Truffle-333333?style=flat&logo=truffle)
-![Mocha](https://img.shields.io/badge/-Mocha/Chai-333333?style=flat&logo=mocha)
-![IPFS](https://img.shields.io/badge/-IPFS-333333?style=flat&logo=ipfs)
-![Hardhat](https://img.shields.io/badge/-Hardhat-333333?style=flat&logo=hardhat)
+* Javascript/Node.js/React
+* Dart/Flutter
+* Solidity(EVM)
+* Web3.js/Truffle/Ganache
+* Ethers.js/Hardhat/Waffle
+* Mocha/Chai/OZ Test Helpers
+* Manual auditing/Slither
 
 ---
 
@@ -84,17 +59,9 @@
 
 ---
 
-### 🎉 &nbsp; Fun Stuff
-* CryptoZombies:
-  1. <a href='https://share.cryptozombies.io/en/lesson/1/share/Luke_'>Lesson 1</a>
-  2. <a href='https://share.cryptozombies.io/en/lesson/2/share/Luke_'>Lesson 2</a>
-  3. <a href='https://share.cryptozombies.io/en/lesson/3/share/Luke_'>Lesson 3</a>
-
----
-
 
 ### ⚙️ &nbsp; Employment History
- * <strong>Blockchain Developer</strong>, <em>extropy.io</em> (March 2021 – Present) 
+ * <strong>Blockchain Developer</strong>, <em>extropy.io</em> (March 2021 – May 2022) 
  * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Feb 2021)  
  * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
  * <strong>Trainee Paraplanner</strong>, <em>MGP Investment Management Limited</em> (Dec 2018 – Mar 2019)   
