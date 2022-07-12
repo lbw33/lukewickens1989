@@ -23,14 +23,14 @@
 
 <p align="center">
   <em>
-   Blockchain developer at <a href="https://extropy.io/"> <b>extropy.io</b></a>. <br>
+   Blockchain developer at <a href="https://www.pillar.fi/"> <b>Pillar</b></a>. <br>
    &nbsp;
   </em> 
   <br>
 </p>
 
 - 😄 &nbsp; Pronouns: <a href="https://pronoun.is/he">he/him</a>
-- 🔭 &nbsp;  2021 goals: Cairo, Nest.js, TypeScript.
+- 🔭 &nbsp;  2022 goals: Nest.js, TypeScript.
 - 💬 &nbsp; Ask me about anything an everything.
 - ⚡ &nbsp; Fun fact: I love to draw and read fantasy books <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="22px">
 
@@ -38,7 +38,7 @@
 
 ### 🌱 &nbsp; Tech Stack
 
-* Javascript/Node.js/React
+* Javascript/Node.js/React/Typescript/Nest.js
 * Dart/Flutter
 * Solidity(EVM)
 * Web3.js/Truffle/Ganache
