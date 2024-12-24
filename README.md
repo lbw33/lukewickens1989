@@ -1,29 +1,13 @@
-<h1 align="center"> Luke Wickens
+<h1 align="center"> CryptoNoYaiba
 <br>
-<a href="https://linkedin.com/in/lukewickens">
-  <img align="center" alt="lukewickens1989 | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-  &nbsp;
-<a href="mailto:lukewickens1989@gmail.com">
-  <img align="center" alt="lukewickens1989 | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
-  &nbsp;
-<a href="https://lukewickens1989.medium.com/">
-<img align="center" alt="lukewickens1989 | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-  &nbsp;
-<a href="https://https://www.instagram.com/mustytomes/">
-<img align="center" alt="lukewickens1989 | Instagram" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-</a>
-  &nbsp;
-<a href="https://www.twitter.com/luke_wickens">
-<img align="center" alt="lukewickens1989 | Twitter" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+<a href="mailto:cryptonoyaiba@gmail.com">
+  <img align="center" alt="cryptonoyaiba | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 </h1>
 
 <p align="center">
   <em>
-   Blockchain developer at <a href="https://www.pillar.fi/"> <b>Pillar</b></a>. <br>
+   Blockchain developer at <a href="https://etherspot.io"> <b>Etherspot</b></a>. <br>
    &nbsp;
   </em> 
   <br>
@@ -59,19 +43,6 @@
 
 ---
 
-
-### ⚙️ &nbsp; Employment History
- * <strong>Blockchain Developer</strong>, <em>extropy.io</em> (March 2021 – May 2022) 
- * <strong>Student - Software Development</strong>, <em>Makers Academy</em> (Nov 2020 – Feb 2021)  
- * <strong>Pricing Department</strong>, <em>Marlborough Fund Managers</em> (Mar 2019 – Nov 2020)  
- * <strong>Trainee Paraplanner</strong>, <em>MGP Investment Management Limited</em> (Dec 2018 – Mar 2019)   
- * <strong>Company Director</strong>, <em>BPDS & Sons Limited</em> (Feb 2016 – Oct 2018)    
- * <strong>Senior Administrator - Custody & Transfers Department</strong>, <em>Investec Wealth & Investment UK</em> (Jun 2014 – Feb 2016)  
- 
-📗 For a full CV please click <strong><a href="https://github.com/lukewickens1989/lukewickens1989/blob/main/.github/workflows/Luke_Wickens_Resume_02-12-2021-10-02-35.pdf">here</a></strong>. 
-
----
-
 <!-- <p align="left">
 <img src="https://github-readme-stats-one-roan.vercel.app/api?username=lukewickens1989&count_private=true&show_icons=true&theme=graywhite" alt="GitHub Status"/>
 <img src ="https://github-readme-stats-one-roan.vercel.app/api/top-langs/?username=lukewickens1989&count_private=true&show_icons=true&layout=compact&theme=graywhite" alt="Most Used Languages">
@@ -81,7 +52,7 @@
 
 
 <!--
-**lukewickens1989/lukewickens1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
